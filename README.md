@@ -72,6 +72,7 @@ Contributions, suggestions, and improvements are welcome.
 
 This project is open-source and available under the MIT License.
 
-## Developed by Rohan Bhowmik Aspiring AI/ML|Data Science|Web Devlopment
+## Developed by Rohan Bhowmik
+Aspiring AI/ML|Data Science|Web Devlopment
 
 ⭐ If you like this project, don't forget to star the repository!
